@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akanksharai536
+- 👋 Hi, I’m Akanksha Rai
 - 👀 I’m interested in constantly learning new things weather its technology, science or astronomy
 - 🌱 I’m currently learning python as my first programming language.
 - 💞️ I’m looking to collaborate on some begginer level projects.
